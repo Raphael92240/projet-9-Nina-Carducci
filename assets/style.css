@@ -87,11 +87,6 @@ h2 {
 	color: #000
 }
 
-.carrouselimg {
-	height: 100%;
-	object-fit: cover;
-}
-
 /* SECTION 1 - ABOUT-ME */
 #about {
 	display: flex;
